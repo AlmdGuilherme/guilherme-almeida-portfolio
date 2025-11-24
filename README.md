@@ -38,6 +38,7 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 </div>
 
 ## | Projetos
+
 <details>
 	<summary> 
 		<h3>
