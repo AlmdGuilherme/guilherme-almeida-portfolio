@@ -40,9 +40,7 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 
 <details>
 	<summary> 
-		<h3>
-			API Fatec - 2024.02 | 1° Semestre
-		</h3>
+		API Fatec - 2024.02 | 1° Semestre
 	</summary>
 </details>
 <details>
