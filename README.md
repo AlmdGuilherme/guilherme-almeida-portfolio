@@ -7,9 +7,12 @@ Após me formar em 2022, estava decidido a aprender novas tecnologias e aprofund
 
 No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José dos Campos - Prof. Jessen Vidal**, onde atualmente estou cursando **Desenvolvimento de Software Multiplataforma**. Além de ter uma base sólida e ampla de conhecimento, tenho a oportunidade de desenvolver APIs (Aprendizagem por Projetos Integrados), projetos desenvolvidos em equipe, utilizando as tecnologias aprendidas durante o semestre, assim, dando a possibilidade de aprimorar as hards e soft skills.
 
+## | Contato
+
 
 ## | Habilidades Desenvolvidas
 <div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50" alt="AWS"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" alt="HTML"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" alt="CSS-Logo"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" height="50" alt="Sass"  />
@@ -31,7 +34,11 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="50" alt="Supabase"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="50" alt="Figma"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" height="50" alt="IntelliJ"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50" alt="AWS"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="50" alt="Git"  />
 </div>
 
+## | Projetos
+<details>
+<summary>| API - Fatec (2024.02)</summary>
+	Olá mundo
+</details>
