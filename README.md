@@ -33,7 +33,6 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="50" alt="Supabase"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="50" alt="Figma"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" height="50" alt="IntelliJ"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="50" alt="Git"  />
 </div>
 
