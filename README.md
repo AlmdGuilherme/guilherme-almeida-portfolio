@@ -42,9 +42,10 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 	<summary> 
 		<strong> API Fatec - 2024.02 | 1° Semestre </strong>
 	</summary>
-	<h5>
-		| Status - Concluído
-	</h5>
+	<h4>
+		| Status - Concluído <br>
+    | Função - Dev. Team
+	</h4>
 	<h2>
 		Objetivo
 	</h2>
@@ -75,24 +76,64 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 		Tecnologias utilizadas
 	</h3>
 	<div align="left">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="30" alt="Figma"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30" alt="HTML"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30" alt="CSS-Logo"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30" alt="JavaScript"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="30" alt="Python"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="30" alt="Flask"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="30" alt="Tailwind"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="30" alt="MySQL"  />
+	  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="50" alt="Figma"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" alt="HTML"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" alt="CSS-Logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="50" alt="JavaScript"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="50" alt="Python"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="50" alt="Flask"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="50" alt="Tailwind"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL"  />
 	</div>
+  <h3>
+    Habilidades desenvolvidas
+  </h3>
+  <div align="left">
+    <h4>
+      Hard Skills:
+    </h4>
+    <ul>
+      <li> 
+        <strong> Tailwind </strong>| Estilização por meio de classes
+      </li>
+      <li> 
+      <strong> Python/Flask </strong>| Web Scrapping e desenvolvimento com Framework.
+      </li>
+      <li> 
+        <strong> MySQL </strong>| Criação e organização da estrutura do banco.
+      </li>
+      <li> 
+        <strong> Consumo de API's públicas. </strong>
+      </li>
+    </ul>
+    <h4>
+      Soft Skills:
+    </h4>
+    <ul>
+      <li>
+        <strong> Comunicação </strong>| Troca de informações clara e assertiva, garantindo que todos os membros estivessem alinhados sobre as mudanças no código e feedbacks de melhoria.
+      </li>
+      <li>
+        <strong> Proatividade e Autonomia </strong>| Iniciativa para buscar soluções técnicas (como o Web Scraping em Python) e disposição para atuar em diversas camadas do projeto (Full Stack) sem depender de supervisão constante.
+      </li>
+      <li>
+        <strong> Gestão de tempo </strong>| Organização das entregas utilizando Metodologia Ágil (Scrum), dividindo o escopo em tarefas menores para cumprir rigorosamente os prazos acadêmicos.
+      </li>
+    </ul>
+  </div>
 </details>
 <details>
 	<summary> 
-		**API Fatec - 2025.01 | 2° Semestre**
+		<strong> API Fatec - 2025.01 | 2° Semestre </strong>
 	</summary>
+  <h4>
+		| Status - Concluído <br>
+    | Função - Dev. Team
+	</h4>
 </details>
 <details>
 	<summary> 
-		**API Fatec - 2025.02 | 3° Semestre**
+    <strong> API Fatec - 2025.02 | 3° Semestre </strong>
 	</summary>
 	
 </details>
