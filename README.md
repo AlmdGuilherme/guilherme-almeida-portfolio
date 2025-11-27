@@ -75,14 +75,14 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 		Tecnologias utilizadas
 	</h3>
 	<div align="left">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="25" alt="Figma"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="25" alt="HTML"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="25" alt="CSS-Logo"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="25" alt="JavaScript"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="25" alt="Python"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="25" alt="Flask"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="25" alt="Tailwind"  />
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="25" alt="MySQL"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="30" alt="Figma"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30" alt="HTML"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30" alt="CSS-Logo"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30" alt="JavaScript"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="30" alt="Python"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="30" alt="Flask"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="30" alt="Tailwind"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="30" alt="MySQL"  />
 	</div>
 </details>
 <details>
