@@ -49,7 +49,7 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 		Objetivo
 	</h2>
 	<p>
-		Desenvolver uma plataforma que disponibilize informações sobre o desempenho dos vereadores de São José dos Campos durante o último e atual mandato, oferecendo aos eleitores, de forma transparente e objetiva, as principais informações dos candidatos, auxiliando na decisão do voto
+		Desenvolver uma plataforma que disponibilize informações sobre o desempenho dos vereadores de São José dos Campos durante o último e atual mandato, oferecendo aos eleitores, de forma transparente e objetiva, as principais informações dos candidatos, auxiliando na decisão do voto.
 	</p>
 	<h3>
 	Minhas principais colaborações
@@ -67,7 +67,23 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 		<li>
 			<strong>Lógica de Back e Front-end:</strong> Implementação da regra de negócio para a paginação das proposições legislativas.
 		</li>
+		<li>
+		<strong>Lógica de Back-end:</strong> Implementação de validação de comentários com bloqueio automático de palavras ofensivas e linguagem imprópria.
+		</li>
 	</ul>
+	<h3>
+		Tecnologias utilizadas
+	</h3>
+	<div align="left">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="50" alt="Figma"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" alt="HTML"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" alt="CSS-Logo"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="50" alt="JavaScript"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="50" alt="Python"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="50" alt="Flask"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="50" alt="Tailwind"  />
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL"  />
+	</div>
 </details>
 <details>
 	<summary> 
