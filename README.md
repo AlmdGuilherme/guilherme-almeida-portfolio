@@ -8,7 +8,17 @@ Após me formar em 2022, estava decidido a aprender novas tecnologias e aprofund
 No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José dos Campos - Prof. Jessen Vidal**, onde atualmente estou cursando **Desenvolvimento de Software Multiplataforma**. Além de ter uma base sólida e ampla de conhecimento, tenho a oportunidade de desenvolver APIs (Aprendizagem por Projetos Integrados), projetos desenvolvidos em equipe, utilizando as tecnologias aprendidas durante o semestre, assim, dando a possibilidade de aprimorar as hards e soft skills.
 
 ## | Contato
-
+<div align="left">
+  <a href="mailto:guilhermecamargo_@outlook.com">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="50" alt="AWS"  />
+  </a>
+  <a href="https://github.com/AlmdGuilherme">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="50" alt="AWS"  />
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-almeida-profile/">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="50" alt="AWS"  />
+  </a>
+</div>
 
 ## | Habilidades Desenvolvidas
 <div align="left">
@@ -262,7 +272,7 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="35" alt="CSS-Logo"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="35" alt="TypeScript"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="35" alt="React"  />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="35" alt="Java"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="50" alt="Java"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="35" alt="Spring"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="35" alt="Tailwind"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="35" alt="MongoDB"  />
