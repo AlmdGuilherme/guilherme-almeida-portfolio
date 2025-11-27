@@ -40,11 +40,34 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
 
 <details>
 	<summary> 
-		**API Fatec - 2024.02 | 1° Semestre**
+		<strong> API Fatec - 2024.02 | 1° Semestre </strong>
 	</summary>
 	<h5>
-	Concluído
+		| Status - Concluído
 	</h5>
+	<h2>
+		Objetivo
+	</h2>
+	<p>
+		Desenvolver uma plataforma que disponibilize informações sobre o desempenho dos vereadores de São José dos Campos durante o último e atual mandato, oferecendo aos eleitores, de forma transparente e objetiva, as principais informações dos candidatos, auxiliando na decisão do voto
+	</p>
+	<h3>
+	Minhas principais colaborações
+	</h3>
+<ul>
+		<li>
+			<strong>Coleta de Dados (Python):</strong> Desenvolvimento de scripts de <em>Web Scraping</em> para extração automatizada dos dados dos vereadores;
+		</li>
+		<li>
+			<strong>Banco de Dados:</strong> Atuação na modelagem e estruturação do banco de dados relacional (MySQL);
+		</li>
+		<li>
+			<strong>Front-end e UI Design:</strong> Criação de interfaces no Figma e implementação do código web das telas;
+		</li>
+		<li>
+			<strong>Lógica de Back e Front-end:</strong> Implementação da regra de negócio para a paginação das proposições legislativas.
+		</li>
+	</ul>
 </details>
 <details>
 	<summary> 
