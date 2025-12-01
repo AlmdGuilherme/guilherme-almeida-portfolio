@@ -72,7 +72,7 @@
     </a>
   </h3>
 	<h3>
-	Minhas principais colaborações
+		| Minhas principais colaborações
 	</h3>
   <p>
     Atuei em todo o ciclo de vida da informação dentro da plataforma como <strong>Desenvolvedor Full Stack</strong>. Iniciei o processo desenvolvendo scripts de <em>Web Scraping</em> em <strong>Python</strong> para automatizar a coleta de dados, estruturando-os posteriormente no <strong>MySQL</strong>. No desenvolvimento do produto, fui responsável desde a concepção visual das interfaces no <strong>Figma</strong> até a implementação do código. Além disso, desenvolvi regras de negócio essenciais para a experiência do usuário, como a lógica de paginação de proposições e um sistema de segurança no Back-end para bloqueio automático de linguagem ofensiva.
