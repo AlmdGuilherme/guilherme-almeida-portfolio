@@ -1,11 +1,15 @@
 
 # Portfólio - Guilherme Almeida Camargo
 ## | Sobre mim
-Inicei minha jornada na área da programação no Colégio Joseense durante o Ensino Médio integrado ao Técnico em Informática, onde tive contato o básico do mundo do desenvolvimento. Durante os 3 anos de Ensino Médio, tive contato com PHP, JavaScript, HTML e CSS básico. 
+<div style="display: flex; align-items: center; gap:20px">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG-rdbIXXzo1w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705096067372?e=1766016000&v=beta&t=_qDveA94XkzXuLKWhaHQ3H29aIcTsMk44naOhM6yzeI" height="250" align="right">
+</div>
+  Inicei minha jornada na área da programação no Colégio Joseense durante o Ensino Médio integrado ao Técnico em Informática, onde tive contato o básico do mundo do desenvolvimento. Durante os 3 anos de Ensino Médio, tive contato com PHP, JavaScript, HTML e CSS básico. 
 
-Após me formar em 2022, estava decidido a aprender novas tecnologias e aprofundar meus conhecimentos já adquiridos por meio de cursos na internet. Foi então que encontrei a One Bit Code, onde estudo as principais tecnologias no mercado, com um foco principal para me tornar **Desenvolvedor Full Stack**.
+  Após me formar em 2022, estava decidido a aprender novas tecnologias e aprofundar meus conhecimentos já adquiridos por meio de cursos na internet. Foi então que encontrei a One Bit Code, onde estudo as principais tecnologias no mercado, com um foco principal para me tornar **Desenvolvedor Full Stack**.
 
-No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José dos Campos - Prof. Jessen Vidal**, onde atualmente estou cursando **Desenvolvimento de Software Multiplataforma**. Além de ter uma base sólida e ampla de conhecimento, tenho a oportunidade de desenvolver APIs (Aprendizagem por Projetos Integrados), projetos desenvolvidos em equipe, utilizando as tecnologias aprendidas durante o semestre, assim, dando a possibilidade de aprimorar as hards e soft skills.
+  No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José dos Campos - Prof. Jessen Vidal**, onde atualmente estou cursando **Desenvolvimento de Software Multiplataforma**. Além de ter uma base sólida e ampla de conhecimento, tenho a oportunidade de desenvolver APIs (Aprendizagem por Projetos Integrados), projetos desenvolvidos em equipe, utilizando as tecnologias aprendidas durante o semestre, assim, dando a possibilidade de aprimorar as hards e soft skills.
+
 
 ## | Contato
 <div align="left">
@@ -261,6 +265,18 @@ No segundo semestre de 2024, ingressei no Ensino Superior na **Fatec São José 
     </li>
     <li>
       <strong>Microsserviços (Back-end):</strong> Desenvolvimento e conexão de serviços independentes utilizando Java.
+    </li>
+  </ul>
+  <h4>Identificação de problemas:</h4>
+  <ul>
+    <li>
+      <strong>Gestão de Dinâmica de Equipe e Profissionalismo:</strong> Um dos desafios enfrentados foi a manutenção da objetividade nas tomadas de decisão. A proximidade pessoal entre os membros do grupo, por vezes, dificultou a separação entre as relações de amizade e as exigências profissionais do projeto. Isso evidenciou a importância de estabelecer limites claros e focar em critérios técnicos para garantir a qualidade do resultado final.
+    </li>
+    <li>
+      <strong>Distribuição de Carga e Organização técnica:</strong> O projeto evidenciou a importância do planejamento prévio, principalmente a atenção redobrada a documentação. A equipe lidou, algumas vezes, com uma distribuição de tarefas desequilibradas, que posteriormente, resultaram em entregas medíocres, comprometentendo o desenvolvimento da equipe.
+    </li>
+    <li>
+      <strong>Comunicação falha:</strong> A comunicação foi um dos principais pontos trabalhados na equipe durante o projeto, resultando em um grupo mais unido, colaborativo e comunicativo ao final do projeto. Entretanto, nos momentos em que a comunicação falhou, o grupo operou de forma desintegrada. Essa falta de visibilidade sobre o progresso das atividades gerou retrabalho e duplicidade de esforços, com membros dedicando tempo ao desenvolvimento de tarefas que, sem o conhecimento de todos, já haviam sido concluídas por outros integrantes. 
     </li>
   </ul>
   <h3>
