@@ -297,7 +297,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="35" alt="CSS-Logo"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="35" alt="TypeScript"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="35" alt="React"  />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="50" alt="Java"  />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="35" alt="Java"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="35" alt="Spring"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="35" alt="Tailwind"  />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="35" alt="MongoDB"  />
